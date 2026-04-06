@@ -3,14 +3,16 @@
 ## Screenshots
 
 ### Home Screen
-![Home](Screenshots/s.1.png)
+<img src="Screenshots/s.1.png" width="250"/>
 
 ### Create Survey
-![Create](Screenshots/s.2.png)
-![Create](Screenshots/s.5.png)
+<p>
+  <img src="Screenshots/s.2.png" width="250"/>
+  <img src="Screenshots/s.5.png" width="250"/>
+</p>
 
 ### Take Survey
-![Take](Screenshots/s.3.png)
+<img src="Screenshots/s.3.png" width="250"/>
 
 ### Summary
-![Summary](Screenshots/s.4.png)
+<img src="Screenshots/s.4.png" width="250"/>
