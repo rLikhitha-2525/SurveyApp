@@ -36,7 +36,9 @@ A simple yet powerful Android app to create, take, and analyze surveys effortles
 
 <p align="center">
   <img src="Screenshots/s.2.png" width="250"/>
-  <img src="Screenshots/s.5.png" width="250"/>
+  <img src="Screenshots/s.6.png" width="250"/>
+</p>
+<img src="Screenshots/s.7.png" width="250"/>
 </p>
 
 ### 📋 Take Survey
